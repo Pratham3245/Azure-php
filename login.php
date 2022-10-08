@@ -16,10 +16,10 @@ include './php/reg.php';
 </head>
 
 <body>
-    <div class="container">
+    <div id="signin" class="container">
         <div class="forms-container">
             <div class="signin-signup">
-                <form action="./php//log.php" method="POST" class="sign-in-form">
+                <form action="index.php" method="POST" class="sign-in-form">
                     <h2 class="title">Sign in</h2>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
@@ -46,7 +46,7 @@ include './php/reg.php';
                         </a>
                     </div>
                 </form>
-                <form action="./php//reg.php" method="POST" class="sign-up-form">
+                <form action="#signin" method="POST" class="sign-up-form">
                     <h2 class="title">Sign up</h2>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
