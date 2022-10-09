@@ -55,7 +55,7 @@
                     <li><a class="nav-link scrollto" href="index.php#services">Services</a></li>
                     <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
                     <li><a class="nav-link scrollto" href="index.php#contact">Contact</a></li>
-                    <li><a class="nav-link scrollto" href="login.html">
+                    <li><a class="nav-link scrollto" href="login.php">
                             <i class="fas fa-user-alt" style="font-size: 20px;"></i>
                         </a></li>
                 </ul>
