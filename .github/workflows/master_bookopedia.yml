@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'bookopedia'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D628A8FFFE4447BBEF230027552BBBD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_573E13B6514E4127A16FB7690E5B7E04 }}
           package: .
