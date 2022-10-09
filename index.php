@@ -134,7 +134,7 @@ include './php/contactus.php';
             <p>
               It is a online platform created to help Engineering students to find all the engineering books at one stop.We have free books so students don't have to waste their money and time on buying if offline.And as India is growing digitally so this website will be beneficial as from this anyone can learn,read anywhere,anytime.
             </p>
-            <a href="books.html" class="btn-learn-more">Read Books</a>
+            <a href="books.php" class="btn-learn-more">Read Books</a>
           </div>
         </div>
 
