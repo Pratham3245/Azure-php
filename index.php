@@ -122,14 +122,12 @@ include './php/contactus.php';
         <div class="row content" data-aos="fade-up">
           <div class="col-lg-6">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore
-              magna aliqua.
+              We are providing a fabulous book reading platform for all the engineers out there.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Accessible </li>
-              <li><i class="ri-check-double-line"></i>User Friendly</li>
-              <li><i class="ri-check-double-line"></i>Easy Navigation</li>
+              <li><i class="ri-check-double-line"></i>You guys can read the books at free of cost.</li>
+              <li><i class="ri-check-double-line"></i>you can easily share the books with your friends.</li>
+              <li><i class="ri-check-double-line"></i>You can download it and can read it from anywhere and any device.</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
