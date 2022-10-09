@@ -81,9 +81,7 @@ include './php/contactus.php';
       <div class="carousel-item active">
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Bookopedia</span></h2>
-          <p class="animate__animated fanimate__adeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut
-            et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse
-            doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <p class="animate__animated fanimate__adeInUp">Do you need books for your academic studies? Bookopedia has a large selection of engineering books. It provides free access to many engineering area books.</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>
@@ -129,16 +127,16 @@ include './php/contactus.php';
               magna aliqua.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> Accessible </li>
+              <li><i class="ri-check-double-line"></i>User Friendly</li>
+              <li><i class="ri-check-double-line"></i>Easy Navigation</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
               It is a online platform created to help Engineering students to find all the engineering books at one stop.We have free books so students don't have to waste their money and time on buying if offline.And as India is growing digitally so this website will be beneficial as from this anyone can learn,read anywhere,anytime.
             </p>
-            <a href="books.html" class="btn-learn-more">Learn More</a>
+            <a href="books.html" class="btn-learn-more">Read Books</a>
           </div>
         </div>
 
@@ -310,9 +308,7 @@ include './php/contactus.php';
         <div class="row" data-aos="zoom-out">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-              laborum.</p>
+            <p>You can message or call to us by put your Information.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="#contact">Call To Action</a>
@@ -334,52 +330,46 @@ include './php/contactus.php';
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="zoom-in-left">
-              <div class="icon"><i class="fa fa-book" style="color: #ff689b;"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
-                occaecati cupiditate non provident</p>
+              <div class="icon"><i class="fas fa-universal-access" style="color: #ff689b;"></i></div>
+              <h4 class="title"><a href="">Accessibility</a></h4>
+              <p class="description">Simply hover over the book and click on the link symbol to gain access.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5 mt-md-0">
             <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="100">
-              <div class="icon"><i class="fa fa-book" style="color: #e9bf06;"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat tarad limino ata</p>
+              <div class="icon"><i class="fa fa-handshake-o" style="color: #e9bf06;"></i></div>
+              <h4 class="title"><a href="">User Friendly</a></h4>
+              <p class="description">The site will look fantastic and function properly on every platform.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-5 mt-lg-0 ">
             <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="200">
-              <div class="icon"><i class="fa fa-book" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                fugiat nulla pariatur</p>
+              <div class="icon"><i class="fa fa-address-book" style="color: #3fcdc7;"></i></div>
+              <h4 class="title"><a href="">Readily accessible contact and location</a></h4>
+              <p class="description">Contact options include phone, email, social media, and an easy-to-use contact form.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="300">
-              <div class="icon"><i class="fa fa-book" style="color:#41cf2e;"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                mollit anim id est laborum</p>
+              <div class="icon"><i class="fa fa-map-marker" style="color:#41cf2e;"></i></div>
+              <h4 class="title"><a href="">Easy Navigation</a></h4>
+              <p class="description">The site's information must be rationally organized in order to make it faster and simpler to access any page on the website.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="400">
-              <div class="icon"><i class="fa fa-book" style="color: #d6ff22;"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-                praesentium voluptatum deleniti atque</p>
+              <div class="icon"><i class="fa fa-download" style="color: #d6ff22;"></i></div>
+              <h4 class="title"><a href="">Download</a></h4>
+              <p class="description">Any book may be downloaded and printed for free. </p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="500">
-              <div class="icon"><i class="fa fa-book" style="color: #4680ff;"></i></div>
-              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum
-                soluta nobis est eligendi</p>
+              <div class="icon"><i class="fa fa-money" style="color: #4680ff;"></i></div>
+              <h4 class="title"><a href="">Monetary</a></h4>
+              <p class="description">It is a completely free website. Readers do not have to pay to read books.</p>
             </div>
           </div>
         </div>
@@ -520,17 +510,17 @@ include './php/contactus.php';
             <form action="#" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input style="border-radius: 10px;" type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input style="border-radius: 10px;" type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input style="border-radius: 10px;" type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea style="border-radius: 10px;" class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
