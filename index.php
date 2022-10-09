@@ -67,7 +67,7 @@ include './php/contactus.php';
               <i class="fas fa-user-alt" style="font-size: 20px;"></i>
             </a></li>
         </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
+        <i class="fa fa-list mobile-nav-toggle" style="font-size:21px"></i>
       </nav><!-- .navbar -->
 
     </div>
