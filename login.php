@@ -12,6 +12,8 @@ include './php/reg.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./assets/css/login.css" />
+    <link href="assets/img/open-book.png" rel="icon">
+
     <title>Sign in & Sign up Form</title>
 </head>
 
@@ -35,9 +37,7 @@ include './php/reg.php';
                         <a href="#" class="social-icon">
                             <i class="fab fa-facebook-f"></i>
                         </a>
-                        <a href="#" class="social-icon">
-                            <i class="fab fa-twitter"></i>
-                        </a>
+
                         <a href="#" class="social-icon">
                             <i class="fab fa-google"></i>
                         </a>
@@ -66,9 +66,7 @@ include './php/reg.php';
                         <a href="#" class="social-icon">
                             <i class="fab fa-facebook-f"></i>
                         </a>
-                        <a href="#" class="social-icon">
-                            <i class="fab fa-twitter"></i>
-                        </a>
+
                         <a href="#" class="social-icon">
                             <i class="fab fa-google"></i>
                         </a>
