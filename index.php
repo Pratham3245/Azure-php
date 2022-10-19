@@ -61,7 +61,7 @@ include './php/contactus.php';
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
+          <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="nav-link scrollto" href="login.php">
               <i class="fas fa-user-alt" style="font-size: 20px;"></i>
@@ -381,7 +381,7 @@ include './php/contactus.php';
 
 
     <!-- ======= Team Section ======= -->
-    <!-- <section id="team" class="team">
+    <section id="team" class="team">
       <div class="container">
 
         <div class="section-title" data-aos="zoom-out">
@@ -394,7 +394,7 @@ include './php/contactus.php';
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up">
               <div class="member-img">
-                <img src="assets/img/Kashish Motwani.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -403,18 +403,16 @@ include './php/contactus.php';
                 </div>
               </div>
               <div class="member-info">
-                <h4>Kashish Motwani</h4>
-                <span>Developer</span>
+                <h4>Walter White</h4>
+                <span>Chief Executive Officer</span>
               </div>
             </div>
           </div>
 
-
-
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/Pratham Dhamecha.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -423,8 +421,44 @@ include './php/contactus.php';
                 </div>
               </div>
               <div class="member-info">
-                <h4>Pratham Dhamecha</h4>
-                <span>Developer</span>
+                <h4>Sarah Jhonson</h4>
+                <span>Product Manager</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>William Anderson</h4>
+                <span>CTO</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Amanda Jepson</h4>
+                <span>Accountant</span>
               </div>
             </div>
           </div>
@@ -432,8 +466,7 @@ include './php/contactus.php';
         </div>
 
       </div>
-    </section> -->
-    <!-- ======= End Team Section ======= -->
+    </section>End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
